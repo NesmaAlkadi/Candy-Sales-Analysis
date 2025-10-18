@@ -49,3 +49,7 @@ The analysis explores **sales distribution, profitability, and efficiency** to s
 - **Top Region:** Pacific (46K)  
 - **Top Product:** *Wonka Bar – Triple Dazzle Caramel*  
 - **Best-Selling Division:** Chocolate (132K)
+
+## 🏁 Conclusion  
+This project highlights the power of **Excel** as a full analytical tool — from **data cleaning** to **dashboard creation**.  
+By Power Query, Power Pivot, and PivotTables, we can extract meaningful insights that drive smarter business strategies.  
